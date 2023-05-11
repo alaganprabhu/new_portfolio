@@ -575,7 +575,7 @@ border-top-right-radius:50px ;
     /* background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(img/b.jpeg); */
     background: none;
     background-size: cover;
-    height: 140vh;
+    height: 130vh;
     padding-top: 120px;
 }
 .about2{

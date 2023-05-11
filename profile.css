@@ -718,6 +718,7 @@ display: none;
     font-size: 24px;
     font-variant: small-caps;
     text-align: center;
+    display:block;
 }
 #col{
     padding-top: 350px;
@@ -737,8 +738,8 @@ display: none;
     margin-left:20px;
 }
 .prt{
-    width: 90%;
-    height: 230px;
+    width: 85%;
+    height: 210px;
     margin-left: 20px;
     margin-right: 10px;
     margin-bottom: 35px;
@@ -746,7 +747,7 @@ display: none;
     background: azure;
 }
 .prt img{
-    height: 190px;
+    height: 170px;
 }
 #pj{
     padding: 5px;
